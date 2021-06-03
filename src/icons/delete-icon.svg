@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 80 80">
+  <g id="delete-icon" transform="translate(-192 -712)">
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="40" cy="40" r="40" transform="translate(192 712)" fill="#212529"/>
+    <g id="cross" transform="translate(0.1 1.5)">
+      <line id="Line_9" data-name="Line 9" y1="50" transform="translate(249.355 768.355) rotate(135)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="7"/>
+      <line id="Line_8" data-name="Line 8" y2="50" transform="translate(249.355 733) rotate(45)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="7"/>
+    </g>
+  </g>
+</svg>
